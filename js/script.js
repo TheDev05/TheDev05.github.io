@@ -159,7 +159,7 @@
         }
     });
 
-
+})(jQuery);
 
 
 
@@ -440,7 +440,7 @@ canvas.addEventListener('mousemove', function(e){
 
 
 
-})(jQuery);
+
 
 
 
