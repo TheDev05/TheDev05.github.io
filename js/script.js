@@ -161,7 +161,6 @@
 
 
 
-})(jQuery);
 
 
 var canvas = document.getElementById('nokey'),
@@ -441,6 +440,7 @@ canvas.addEventListener('mousemove', function(e){
 
 
 
+})(jQuery);
 
 
 
