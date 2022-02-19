@@ -3,23 +3,6 @@ body {
   overflow-x: hidden;
 }
 
-// kk
-*{
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-}
-html, body{
-  height: 100%;
-  margin: 0;
-  padding: 0;
-  background-color: #999;
-  overflow: hidden;
-}
-canvas{
-  background-color: #111;
-}
-
-// kk
 ::selection {
   background: lighten($color: $primary-color, $amount: 10);
   color: $white;
