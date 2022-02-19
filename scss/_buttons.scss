@@ -50,6 +50,11 @@
   }
 }
 
+#smoke_canvas {
+  height: 100vh;
+  pointer-events: all;
+  opacity: 1;
+}
 
 .btn-transparent {
   background: transparent;
